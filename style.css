@@ -10,18 +10,18 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to right bottom,#ffa585, #45c5d8);
-    color: #fff;
+    background: linear-gradient(to right bottom,#0a0808, #014f59);
+    color: #7b7979;
     font-weight: 600;
 }
 .container{
-    border: 0.5px solid #fff;
+    border: 0.5px solid #dfd6d6;
     border-radius: 10px;
     padding: 28px 32px;
     display: flex;
     flex-direction: column;
     background: transparent;
-    box-shadow: 8px 8px 4px rgb(238, 232, 232), 8px 8px 0px #989797;
+    box-shadow: 8px 8px 4px rgb(124, 123, 123), 8px 8px 0px #989797;
 }
 .container h1{
     font-size: 1.4rem;
